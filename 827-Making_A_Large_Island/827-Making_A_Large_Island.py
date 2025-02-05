@@ -1,4 +1,3 @@
-
 class Solution:
     def largestIsland(self, grid: list[list[int]]) -> int:
         # Initialize variables for island ID and area mapping
